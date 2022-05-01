@@ -4,6 +4,8 @@
 
 This Python 2.7+/3.4+ library allows you to control [Bose Soundtouch devices](https://www.soundtouch.com/).
 
+This is a fork of https://github.com/CharlesBlonde/libsoundtouch which is no longer maintained.
+
 [http://libsoundtouch.readthedocs.io](http://libsoundtouch.readthedocs.io)
 
 ## How to use it ?
@@ -193,6 +195,10 @@ You have to sent an email and you'll received a response in a minute with 2 PDF:
 * SoundTouchAPI_WebServices.pdf: REST API documentation. Be careful, the documentation contains errors and is not fully up to date
 
 ## Changelog
+
+### 0.8.1 -  2022/05/01
+
+* Add additional sources (ALEXA, TUNEIN, UPNP)
 
 ### 0.8.0 -  2018/02/11
 
