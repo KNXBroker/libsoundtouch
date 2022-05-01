@@ -1,5 +1,6 @@
 Thanks to all the wonderful folks who have contributed to Libsoundtouch:
 
+-  Charles Blonde <https://github.com/CharlesBlonde> (Original author of this libary)
 -  jeanregisser <https://github.com/jeanregisser> (Use enum-compat instead of enum34 directly)
 -  Tyzer34 <https://github.com/Tyzer34> (add *play_media* support)
 -  wanderor <https://github.com/wanderor> (add local computer media support)
